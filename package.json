@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/Thrashy190/justia-doc-formatter-v2#readme",
   "dependencies": {
-    "puppeteer": "^22.6.0"
+    "@google-cloud/local-auth": "^2.1.0",
+    "dotenv": "^16.4.5",
+    "googleapis": "^105.0.0",
+    "puppeteer": "^22.6.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
